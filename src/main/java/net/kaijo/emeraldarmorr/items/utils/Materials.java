@@ -29,7 +29,11 @@ public class Materials {
             500,
             Map.of(
                     EquipmentType.HELMET, 3,
+<<<<<<< HEAD
                     EquipmentType.CHESTPLATE, 0,
+=======
+                    EquipmentType.CHESTPLATE, 6,
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
                     EquipmentType.LEGGINGS, 5,
                     EquipmentType.BOOTS, 2
             ),
@@ -47,10 +51,17 @@ public class Materials {
     public static final ArmorMaterial ARMOR_CHESTPLATE_MATERIAL = new ArmorMaterial(
             500,
             Map.of(
+<<<<<<< HEAD
                     EquipmentType.HELMET, 0,
                     EquipmentType.CHESTPLATE, 5,
                     EquipmentType.LEGGINGS, 0,
                     EquipmentType.BOOTS, 0
+=======
+                    EquipmentType.HELMET, 3,
+                    EquipmentType.CHESTPLATE, 5,
+                    EquipmentType.LEGGINGS, 5,
+                    EquipmentType.BOOTS, 2
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
             ),
             14,
             ARMOR_EQUIP_SOUND,
@@ -75,6 +86,7 @@ public class Materials {
             )
 
     );
+<<<<<<< HEAD
 
     public static final ArmorMaterial MOB_ARMOR_MATERIAL = new ArmorMaterial(
             0,
@@ -96,4 +108,6 @@ public class Materials {
             ),
             ASSET_KEY
     );
+=======
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
 }

@@ -9,7 +9,10 @@
   "item.emeraldgear.emerald_axe": "Emerald Axe",
   "item.emeraldgear.emerald_spear": "Emerald Spear",
   "item.emeraldgear.emerald_sword": "Emerald Sword",
+<<<<<<< HEAD
   "item.emeraldgear.emerald_nautilus_armor": "Emerald Nautilus Armor",
   "item.emeraldgear.emerald_horse_armor": "Emerald Horse Armor",
+=======
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
   "subtitles.item.armor.equip_emerald": "Emerald armor clinks"
 }

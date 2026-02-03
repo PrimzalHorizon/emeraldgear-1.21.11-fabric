@@ -28,7 +28,22 @@ public class Weapons {
             case "emerald_spear" -> {
                 Item weapon = new Item(new Item.Settings()
                         .registryKey(key)
+<<<<<<< HEAD
                         .spear(Materials.TOOL_MATERIAL, 0.95F, 0.95F, 0.5F, 2.3F, 7.8F, 6.73F, 5.0F, 11.27F, 4.5F)
+=======
+                        .spear(
+                                Materials.TOOL_MATERIAL,
+                                0.95238096F,
+                                1.2F,
+                                0.8F,
+                                3.3F,
+                                10.0F,
+                                6.61F,
+                                4.3F,
+                                8.2F,
+                                4.3F
+                        )
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
                         .maxDamage(731)
                         .maxCount(1)
                         .repairable(Items.EMERALD)

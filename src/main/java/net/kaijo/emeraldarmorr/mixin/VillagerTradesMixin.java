@@ -22,9 +22,12 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
+<<<<<<< HEAD
 import java.util.HashMap;
 import java.util.Map;
 
+=======
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
 @Mixin(VillagerEntity.class)
 public abstract class VillagerTradesMixin {
 

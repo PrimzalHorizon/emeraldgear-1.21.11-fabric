@@ -1,5 +1,11 @@
 .gradle/
+<<<<<<< HEAD
 .idea/
 out/
 build/
 run/
+=======
+out/
+build/
+run/
+>>>>>>> 8704b0b91f2ccd3a4312c35d0a35dcb9b7fa9157
