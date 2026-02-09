@@ -1,2 +1,19 @@
-Copyright (c) 2026 
-All rights reserved.
+All Rights Reserved
+
+Copyright (c) 2026 Ashan
+
+Permission is granted to use this mod in public or private modpacks, provided
+that credit is given and no direct redistribution of the mod itself occurs.
+
+You may NOT:
+- Reupload this mod on other websites
+- Modify or redistribute the source code
+- Create derivative works
+- Claim this mod as your own
+
+You MAY:
+- Include this mod in modpacks (public or private)
+- Share modpacks containing this mod
+- Play and stream with this mod
+
+This mod and its source are provided as-is.
