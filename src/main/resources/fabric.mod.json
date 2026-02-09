@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "emeraldgear",
+  "version": "${version}",
+  "name": "Emerald Gear",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "net.kaijo.emeraldarmorr.EmeraldGear"
+    ],
+    "client": [
+      "net.kaijo.emeraldarmorr.Client"
+    ]
+  },
+  "mixins": [
+    "mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
