@@ -26,10 +26,11 @@ It adds emerald-based equipment and introduces special villager interactions whe
 ## Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/)
-2. Install [Fabric API](https://modrinth.com/mod/fabric-api/versions?c=release&g=1.21.11)
-3. Place the mod `.jar` and `fabric api.jar` file into your `mods` folder
-4. Launch Minecraft using Fabric
-5. Enjoy!
+2. Download [Fabric API](https://modrinth.com/mod/fabric-api/versions?c=release&g=1.21.11)
+3. Download [Emerald Gear](https://modrinth.com/mod/emeraldgear-fabric/versions)
+4. Place the mod `emerald gear.jar` and `fabric api.jar` file into your `mods` folder
+5. Launch Minecraft using Fabric
+6. Enjoy!
 
 ---
 
