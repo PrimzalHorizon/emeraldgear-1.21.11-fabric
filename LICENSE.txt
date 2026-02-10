@@ -6,7 +6,7 @@ Permission is granted to use this mod in public or private modpacks, provided
 that credit is given and no direct redistribution of the mod itself occurs.
 
 You may NOT:
-- Reupload this mod on other websites
+- Reupload this mod on any websites
 - Modify or redistribute the source code
 - Create derivative works
 - Claim this mod as your own
